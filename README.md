@@ -17,11 +17,11 @@ To run the Pig Game on your local machine, follow these steps:
 
 Clone the repository to your computer:
 
-
+https://github.com/Venkat10292/Javascript_PigGame.git
 
 Navigate to the project directory:
 
-cd pig-game
+cd Javascript_PigGame
 
 Open the index.html file in your preferred web browser.
 
