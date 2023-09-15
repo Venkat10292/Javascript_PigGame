@@ -142,10 +142,10 @@ const zo=function()
 {
     if(scorePlayer1>=100)
     {
-        console.log("Player 1 wins");
+         document.querySelector('.winner_indication').textContent="Player 1 Wins";
     }
     if(scorePlayer2>=100)
     {
-        console.log("Player 2 Wins");
+         document.querySelector('.winner_indication').textContent="Player 2 Wins";
     }
 };
